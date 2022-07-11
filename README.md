@@ -6,6 +6,8 @@ SemEval is a series of international natural language processing (NLP) research 
 
 **task link** https://sites.google.com/view/semeval2022-isarcasmeval
 
+**Publication link** https://aclanthology.org/2022.semeval-1.131/
+
 
 ● Results: 
 
